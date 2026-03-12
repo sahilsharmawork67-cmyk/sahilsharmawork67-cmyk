@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-<h3 align="center">Full Stack Web Developer | 5+ Years Experience</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-Experienced Full Stack Developer building large scale web applications using Core PHP, Laravel, React and WordPress.
+Experienced Full Stack Developer building large scale web applications using Core PHP, Laravel, React, and WordPress.
 </p>
 
 ---
@@ -59,10 +59,11 @@ Experienced Full Stack Developer building large scale web applications using Cor
 ✔ Built **custom WordPress plugins & themes**
 ✔ Developed **Laravel REST APIs for web & mobile apps**
 ✔ Built **React admin dashboards**
-✔ Integrated **third party APIs and payment gateways**
+✔ Integrated **third-party APIs and payment gateways**
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/sahilsharmawork67-cmyk
+* GitHub: https://github.com/sahilsharmawork67-cmyk
+* LinkedIn: [Sahil Sharma](https://www.linkedin.com/in/sahil-sharma-a97b141ba/)
