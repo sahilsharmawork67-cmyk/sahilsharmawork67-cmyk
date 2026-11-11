@@ -11,7 +11,7 @@ For 5+ years I've worked across the stack, mostly on the hard parts: tracing pro
 | Project | What it shows |
 |---|---|
 | [**laravel-booking-api**](https://github.com/sahilsharmawork67-cmyk/laravel-booking-api) | Laravel REST API for room bookings: double-booking prevention with transactions and row locks, half-open date ranges, 30 feature tests, CI |
-| [**react-bookings-dashboard**](https://github.com/sahilsharmawork67-cmyk/react-bookings-dashboard) | React + TypeScript admin dashboard: KPI tiles, SVG chart, searchable/sortable/filterable table, accessible controls, 35 tests |
+| [**react-bookings-dashboard**](https://github.com/sahilsharmawork67-cmyk/react-bookings-dashboard) | React + TypeScript admin dashboard: KPI tiles, SVG chart, searchable/sortable/filterable table, accessible controls, 35 tests · [**Live demo**](https://sahilsharmawork67-cmyk.github.io/react-bookings-dashboard/) |
 | [**mysql-redundant-index-finder**](https://github.com/sahilsharmawork67-cmyk/mysql-redundant-index-finder) | PHP CLI that finds redundant and duplicate MySQL indexes from a schema dump and suggests the `DROP INDEX` fixes; 84 tests, PHPStan max level |
 
 ## 🤖 How I work with AI
