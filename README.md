@@ -1,6 +1,6 @@
 # Hi, I'm Sahil Sharma 👋
 
-**Full Stack Engineer · PHP · Laravel · React · AI-assisted development**
+**Full Stack Engineer · PHP · Laravel · React · AI-assisted development · Automation & QA**
 
 I build and fix production systems where mistakes cost money: booking, payments, inventory and reporting.
 
@@ -13,7 +13,10 @@ I work AI-first, and I still own every line that ships.
 - **Claude Code daily** to explore large codebases, find where a behaviour lives, and plan changes
 - **Test-first fixes:** write the failing test, then the fix, then let the tests prove it
 - **AI review loops:** AI reviews the diff against the project's rules, and I review every line before merge
-- **QA automation:** generating test cases, edge cases and reproduction steps
+- **MCP (Model Context Protocol):** connecting AI agents to real tools and data so they can work across the codebase, tickets and docs
+- **Automation:** scripting repetitive dev work, CI checks and release steps so they run the same way every time
+- **QA:** test plans, regression tests, edge cases and clear reproduction steps, with AI helping generate and run them
+- **Code reviews:** reviewing PRs for correctness, security, edge cases and performance, with AI as a first pass and a human sign-off
 - **Guardrails:** no secrets in prompts, human code review, staged dev → staging → production rollout
 
 AI writes code fast. My job is knowing whether it's right and safe to ship.
@@ -71,10 +74,14 @@ AI writes code fast. My job is knowing whether it's right and safe to ship.
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
 </p>
 
-**AI-assisted development**
+**AI, automation & quality**
 
 <p>
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP (Model Context Protocol)"/>
+<img src="https://img.shields.io/badge/Workflow%20Automation-4B32C3?style=for-the-badge&logo=githubactions&logoColor=white" alt="Workflow Automation"/>
+<img src="https://img.shields.io/badge/QA%20%26%20Testing-2E7D32?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="QA %26 Testing"/>
+<img src="https://img.shields.io/badge/Code%20Reviews-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviews"/>
 </p>
 
 **Also:** MVC architecture · API & payment-gateway integrations · custom WordPress plugins & themes · responsive UI · query & index tuning · production debugging
