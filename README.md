@@ -119,4 +119,6 @@ AI writes code fast. My job is knowing whether it's right and safe to ship.
 
 ## 📫 Connect
 
+🟢 **Open to remote full-stack roles** (PHP · Laravel · React · AI-assisted development).
+
 - LinkedIn: [Sahil Sharma](https://www.linkedin.com/in/sahil-sharma-a97b141ba/)
