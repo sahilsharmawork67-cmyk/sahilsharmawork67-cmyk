@@ -10,10 +10,11 @@ For 5+ years I've worked across the stack, mostly on the hard parts: tracing pro
 
 I work AI-first, and I still own every line that ships.
 
-- **Claude Code daily** to explore large codebases, find where a behaviour lives, and plan changes
+- **Claude Code and Cursor daily** to explore large codebases, find where a behaviour lives, and plan changes
 - **Test-first fixes:** write the failing test, then the fix, then let the tests prove it
 - **AI review loops:** AI reviews the diff against the project's rules, and I review every line before merge
-- **MCP (Model Context Protocol):** connecting AI agents to real tools and data so they can work across the codebase, tickets and docs
+- **AI tools:** Claude, Claude Code, Cursor, ChatGPT and GitHub Copilot, picking the right one for the job
+- **Building MCP servers (Model Context Protocol):** creating custom MCP tools that connect AI agents to real systems such as databases, APIs, tickets and docs
 - **Automation:** scripting repetitive dev work, CI checks and release steps so they run the same way every time
 - **QA:** test plans, regression tests, edge cases and clear reproduction steps, with AI helping generate and run them
 - **Code reviews:** reviewing PRs for correctness, security, edge cases and performance, with AI as a first pass and a human sign-off
@@ -74,11 +75,20 @@ AI writes code fast. My job is knowing whether it's right and safe to ship.
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
 </p>
 
-**AI, automation & quality**
+**AI tools**
 
 <p>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP (Model Context Protocol)"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+</p>
+
+**MCP, automation & quality**
+
+<p>
+<img src="https://img.shields.io/badge/MCP%20Server%20Development-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP Server Development"/>
 <img src="https://img.shields.io/badge/Workflow%20Automation-4B32C3?style=for-the-badge&logo=githubactions&logoColor=white" alt="Workflow Automation"/>
 <img src="https://img.shields.io/badge/QA%20%26%20Testing-2E7D32?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="QA %26 Testing"/>
 <img src="https://img.shields.io/badge/Code%20Reviews-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviews"/>
