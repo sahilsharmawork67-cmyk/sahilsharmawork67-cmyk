@@ -82,10 +82,6 @@ AI writes code fast. My job is knowing whether it's right and safe to ship.
 ## 📊 GitHub stats
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilsharmawork67-cmyk&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharmawork67-cmyk&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-<p>
 <img src="https://streak-stats.demolab.com?user=sahilsharmawork67-cmyk&hide_border=true" alt="GitHub streak"/>
 </p>
 
