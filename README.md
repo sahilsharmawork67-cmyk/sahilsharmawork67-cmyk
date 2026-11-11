@@ -6,6 +6,14 @@ I build and fix production systems where mistakes cost money: booking, payments,
 
 For 5+ years I've worked across the stack, mostly on the hard parts: tracing production bugs to their root cause, making deploys and data migrations safe, and turning messy business rules into reliable, tested code.
 
+## 🚀 Featured projects
+
+| Project | What it shows |
+|---|---|
+| [**laravel-booking-api**](https://github.com/sahilsharmawork67-cmyk/laravel-booking-api) | Laravel REST API for room bookings: double-booking prevention with transactions and row locks, half-open date ranges, 30 feature tests, CI |
+| [**react-bookings-dashboard**](https://github.com/sahilsharmawork67-cmyk/react-bookings-dashboard) | React + TypeScript admin dashboard: KPI tiles, SVG chart, searchable/sortable/filterable table, accessible controls, 35 tests |
+| [**mysql-redundant-index-finder**](https://github.com/sahilsharmawork67-cmyk/mysql-redundant-index-finder) | PHP CLI that finds redundant and duplicate MySQL indexes from a schema dump and suggests the `DROP INDEX` fixes; 84 tests, PHPStan max level |
+
 ## 🤖 How I work with AI
 
 I work AI-first, and I still own every line that ships.
